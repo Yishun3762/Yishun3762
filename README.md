@@ -47,10 +47,7 @@ I'm a developer passionate about programming and artificial intelligence. Curren
 ## 📈 AI 平台活动 | AI Platform Activities
 
 <div align="center">
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/yishun3762/competition/light" alt="Kaggle Competitions" />
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/yishun3762/dataset/light" alt="Kaggle Datasets" />
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/yishun3762/notebook/light" alt="Kaggle Notebooks" />
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/yishun3762/discussion/light" alt="Kaggle Discussions" />
+  https://www.kaggle.com/code/loveayakaforever/using-llama-cpp-to-quantize-llm
 </div>
 
 ## 🏆 精选项目 | Featured Projects
