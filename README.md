@@ -68,7 +68,3 @@ I'm a developer passionate about programming and artificial intelligence. Curren
 
 - 📧 Email: Yi_shun@outlook.com
 - 🌐 个人网站 | Website: Yishun3762.github.io
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb5b1d2e88e8f307b434affbf1e/assets/Bottom_down.svg" width="100%" />
-</div>
