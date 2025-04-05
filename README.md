@@ -13,7 +13,7 @@
 ## 🌐 关于我 | About Me
 
 🇨🇳 **中文**：  
-我是一名热衷于编程与人工智能的开发者。目前在中国海洋大学就读专注于C++、前端开发和Python，同时在Kaggle等AI平台也有活跃。我喜欢解决复杂问题并创造有价值的应用程序。
+我是一名热衷于编程与人工智能的开发者。目前在中国海洋大学就读。专注于C++、前端开发和Python，同时在Kaggle等AI平台也有活跃。我喜欢解决复杂问题并创造有价值的应用程序。
 
 🇬🇧 **English**：  
 I'm a developer passionate about programming and artificial intelligence. Currently study in OUC.I focus on C++, front-end development, and Python, while actively participating in competitions and project development on AI platforms like Kaggle. I enjoy solving complex problems and creating valuable applications.
