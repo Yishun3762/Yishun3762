@@ -51,8 +51,8 @@ I'm a developer passionate about programming and artificial intelligence. Curren
 
 <!-- 项目卡片 Project Cards -->
 <div align="center">
-  <a href="https://github.com/Yishun3762/A-Simple-Uncertainty-Calculator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yishun3762&repo=A-Simple-Uncertainty-Calculator&theme=tokyonight" />
+  <a href="https://github.com/Yishun3762/img2pdf-tool-for-jmcomic">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yishun3762&repo=img2pdf-tool-for-jmcomic&theme=tokyonight" />
   </a>
   <a href="https://github.com/Yishun3762/Yishun3762.github.io">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yishun3762&repo=Yishun3762.github.io&theme=tokyonight" />
